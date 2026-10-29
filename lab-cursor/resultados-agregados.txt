@@ -1,0 +1,24 @@
+archivo | conversor | arranque_ms | deriva_ms | valid_ms | n | A_med | C_med | D_med | outLat
+asa-branca.json | FetchConverter v1.5.1 | 6.2 | 2.9 | -0.4 | 86 | 13.1 | 6.9 | -9.4 | 32.0
+asa-branca-r2.json | FetchConverter v1.5.1 | 3.3 | 2.9 | -0.4 | 86 | 18.9 | 15.6 | -0.7 | 32.0
+asa-branca-r3.json | FetchConverter v1.5.1 | 3.3 | 0.0 | -0.4 | 86 | 18.5 | 15.2 | -1.2 | 32.0
+maqam-rast.json | verovio v6.3.0-dev-7151cba | 5.1 | 0.0 | 46.4 | 37 | 11.2 | 6.1 | -10.5 | 32.0
+maqam-rast-r2.json | verovio v6.3.0-dev-7151cba | 5.1 | 11.6 | 46.4 | 37 | 10.2 | 5.1 | -11.6 | 32.0
+maqam-rast-r3.json | verovio v6.3.0-dev-7151cba | 5.1 | 2.9 | 46.4 | 37 | 1.5 | -3.6 | -20.2 | 32.0
+salma-ya-salama.json | FetchConverter v1.5.1 | 2.9 | 0.0 | -1.1 | 88 | 10.7 | 8.0 | -8.6 | 32.0
+salma-ya-salama-r2.json | FetchConverter v1.5.1 | 2.9 | 2.9 | -1.1 | 89 | 9.3 | 6.3 | -10.2 | 32.0
+salma-ya-salama-r3.json | FetchConverter v1.5.1 | 2.9 | 2.9 | -1.1 | 89 | 9.2 | 6.3 | -10.0 | 32.0
+baiao-miranda.json | FetchConverter v1.5.1 | 2.9 | 2.9 | -0.4 | 31 | 7.6 | 5.4 | -11.1 | 32.0
+baiao-miranda-r2.json | FetchConverter v1.5.1 | 2.9 | 0.0 | -0.4 | 31 | 8.0 | 5.7 | -11.4 | 32.0
+baiao-miranda-r3.json | FetchConverter v1.5.1 | 2.9 | 0.0 | -0.4 | 31 | 6.6 | 3.7 | -12.8 | 32.0
+blackwood-ex-29.json | VerovioStaticConverter v1.5.1 | 2.9 | 2.9 | 70.4 | 10 | 1.2 | -1.7 | -18.6 | 32.0
+asa-branca-h.json | FetchConverter v1.5.1 | 3.3 | 2.9 | -0.4 | 86 | 8.9 | 5.7 | -10.6 | 32.0
+salma-h.json | FetchConverter v1.5.1 | 8.7 | 0.0 | 1.1 | 112 | 6.9 | -1.6 | -18.0 | 32.0
+maqam-long.json | verovio v6.3.0-dev-7151cba | 5.1 | 8.7 | -58.0 | 132 | 9.8 | 4.7 | -12.0 | 32.0
+bluebag.json | verovio v6.3.0-dev-7151cba | -1.3 | 2.9 | 68.6 | 90 | 15.6 | 16.9 | 0.1 | 32.0
+A {'n': 1158, 'mediana': 10.0, 'p25': 7.6, 'p75': 14.6, 'riq': 7.0, 'p5': 0.7, 'p95': 19.6, 'min': 0.0, 'max': 50.8}
+B {'n': 1158, 'mediana': 0.0, 'p25': 0.0, 'p75': 0.0, 'riq': 0.0, 'p5': -0.7, 'p95': 0.0, 'min': -4.2, 'max': 0.4}
+C {'n': 1158, 'mediana': 6.3, 'p25': 3.5, 'p75': 11.9, 'riq': 8.3, 'p5': -3.1, 'p95': 17.0, 'min': -5.0, 'max': 47.9}
+F {'n': 1158, 'mediana': 15.6, 'p25': 15.4, 'p75': 15.7, 'riq': 0.3, 'p5': 14.6, 'p95': 15.9, 'min': 3.3, 'max': 16.1}
+D {'n': 1158, 'mediana': -10.4, 'p25': -13.2, 'p75': -4.8, 'riq': 8.4, 'p5': -19.7, 'p95': 0.5, 'min': -23.6, 'max': 22.0}
+arranque por ejecución {'n': 17, 'mediana': 3.3, 'p25': 2.9, 'p75': 5.1, 'riq': 2.2, 'p5': 2.1, 'p95': 6.7, 'min': -1.3, 'max': 8.7}
